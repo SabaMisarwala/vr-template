@@ -2,15 +2,17 @@
 		margin-top:50px;
 		text-align: center;
 	}
-
-.carousel-caption{
-	color: green !important;
-
+.carousel-item{
+	margin-top: 65px;
+	background-color: black !important;
 }
-
+.signUp{
+	color: white
+}
 .slide-image{
-	height: 600px;
+height: 500px;
 }
+
 
 
 @media only screen and (max-width: 768px) {
